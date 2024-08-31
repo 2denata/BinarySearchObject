@@ -1,3 +1,8 @@
+/*
+Binary Search
+J. P. Denata
+*/
+
 
 public class SearchingObject implements Comparable {
 
